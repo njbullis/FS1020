@@ -1,0 +1,12 @@
+{
+  "name": "FS1020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-start-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
